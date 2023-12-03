@@ -1,7 +1,5 @@
-# pokedex
-# pokedex
-# pokedex
-# pokedex
-# pokedex
-# pokedex_backend
-# pokedex_backend
+first docker-compose up
+
+after that npm i
+
+after that npm run dev this backend
